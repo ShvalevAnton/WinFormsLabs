@@ -1,0 +1,17 @@
+C:\MyGit\WinForms\01_ Lab\04_Exercise\MdiApplication\MdiApplication\bin\Debug\net8.0-windows\MdiApplication..exe
+C:\MyGit\WinForms\01_ Lab\04_Exercise\MdiApplication\MdiApplication\bin\Debug\net8.0-windows\MdiApplication..deps.json
+C:\MyGit\WinForms\01_ Lab\04_Exercise\MdiApplication\MdiApplication\bin\Debug\net8.0-windows\MdiApplication..runtimeconfig.json
+C:\MyGit\WinForms\01_ Lab\04_Exercise\MdiApplication\MdiApplication\bin\Debug\net8.0-windows\MdiApplication..dll
+C:\MyGit\WinForms\01_ Lab\04_Exercise\MdiApplication\MdiApplication\bin\Debug\net8.0-windows\MdiApplication..pdb
+C:\MyGit\WinForms\01_ Lab\04_Exercise\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\MdiApplication_.ChildForm.resources
+C:\MyGit\WinForms\01_ Lab\04_Exercise\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\MdiApplication_.ParentForm.resources
+C:\MyGit\WinForms\01_ Lab\04_Exercise\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\MdiApplication..csproj.GenerateResource.cache
+C:\MyGit\WinForms\01_ Lab\04_Exercise\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\MdiApplication..GeneratedMSBuildEditorConfig.editorconfig
+C:\MyGit\WinForms\01_ Lab\04_Exercise\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\MdiApplication..AssemblyInfoInputs.cache
+C:\MyGit\WinForms\01_ Lab\04_Exercise\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\MdiApplication..AssemblyInfo.cs
+C:\MyGit\WinForms\01_ Lab\04_Exercise\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\MdiApplication..csproj.CoreCompileInputs.cache
+C:\MyGit\WinForms\01_ Lab\04_Exercise\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\MdiApplication..dll
+C:\MyGit\WinForms\01_ Lab\04_Exercise\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\refint\MdiApplication..dll
+C:\MyGit\WinForms\01_ Lab\04_Exercise\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\MdiApplication..pdb
+C:\MyGit\WinForms\01_ Lab\04_Exercise\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\MdiApplication..genruntimeconfig.cache
+C:\MyGit\WinForms\01_ Lab\04_Exercise\MdiApplication\MdiApplication\obj\Debug\net8.0-windows\ref\MdiApplication..dll

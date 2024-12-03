@@ -1,0 +1,17 @@
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_2\WinFormsApp1_1\bin\Debug\net8.0-windows\Test_2.exe
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_2\WinFormsApp1_1\bin\Debug\net8.0-windows\Test_2.deps.json
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_2\WinFormsApp1_1\bin\Debug\net8.0-windows\Test_2.runtimeconfig.json
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_2\WinFormsApp1_1\bin\Debug\net8.0-windows\Test_2.dll
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_2\WinFormsApp1_1\bin\Debug\net8.0-windows\Test_2.pdb
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_2\WinFormsApp1_1\obj\Debug\net8.0-windows\Test_2.RombForm.resources
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_2\WinFormsApp1_1\obj\Debug\net8.0-windows\Test_2.Form2.resources
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_2\WinFormsApp1_1\obj\Debug\net8.0-windows\Test_2.csproj.GenerateResource.cache
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_2\WinFormsApp1_1\obj\Debug\net8.0-windows\Test_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_2\WinFormsApp1_1\obj\Debug\net8.0-windows\Test_2.AssemblyInfoInputs.cache
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_2\WinFormsApp1_1\obj\Debug\net8.0-windows\Test_2.AssemblyInfo.cs
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_2\WinFormsApp1_1\obj\Debug\net8.0-windows\Test_2.csproj.CoreCompileInputs.cache
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_2\WinFormsApp1_1\obj\Debug\net8.0-windows\Test_2.dll
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_2\WinFormsApp1_1\obj\Debug\net8.0-windows\refint\Test_2.dll
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_2\WinFormsApp1_1\obj\Debug\net8.0-windows\Test_2.pdb
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_2\WinFormsApp1_1\obj\Debug\net8.0-windows\Test_2.genruntimeconfig.cache
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_2\WinFormsApp1_1\obj\Debug\net8.0-windows\ref\Test_2.dll

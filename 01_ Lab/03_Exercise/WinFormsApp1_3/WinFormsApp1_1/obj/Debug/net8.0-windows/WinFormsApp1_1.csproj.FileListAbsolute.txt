@@ -1,0 +1,16 @@
+C:\MyGit\WinForms\01_ Lab\02_Exercise\WinFormsApp1_1\WinFormsApp1_1\bin\Debug\net8.0-windows\WinFormsApp1_1.exe
+C:\MyGit\WinForms\01_ Lab\02_Exercise\WinFormsApp1_1\WinFormsApp1_1\bin\Debug\net8.0-windows\WinFormsApp1_1.deps.json
+C:\MyGit\WinForms\01_ Lab\02_Exercise\WinFormsApp1_1\WinFormsApp1_1\bin\Debug\net8.0-windows\WinFormsApp1_1.runtimeconfig.json
+C:\MyGit\WinForms\01_ Lab\02_Exercise\WinFormsApp1_1\WinFormsApp1_1\bin\Debug\net8.0-windows\WinFormsApp1_1.dll
+C:\MyGit\WinForms\01_ Lab\02_Exercise\WinFormsApp1_1\WinFormsApp1_1\bin\Debug\net8.0-windows\WinFormsApp1_1.pdb
+C:\MyGit\WinForms\01_ Lab\02_Exercise\WinFormsApp1_1\WinFormsApp1_1\obj\Debug\net8.0-windows\WinFormsApp1_1.Form1.resources
+C:\MyGit\WinForms\01_ Lab\02_Exercise\WinFormsApp1_1\WinFormsApp1_1\obj\Debug\net8.0-windows\WinFormsApp1_1.csproj.GenerateResource.cache
+C:\MyGit\WinForms\01_ Lab\02_Exercise\WinFormsApp1_1\WinFormsApp1_1\obj\Debug\net8.0-windows\WinFormsApp1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyGit\WinForms\01_ Lab\02_Exercise\WinFormsApp1_1\WinFormsApp1_1\obj\Debug\net8.0-windows\WinFormsApp1_1.AssemblyInfoInputs.cache
+C:\MyGit\WinForms\01_ Lab\02_Exercise\WinFormsApp1_1\WinFormsApp1_1\obj\Debug\net8.0-windows\WinFormsApp1_1.AssemblyInfo.cs
+C:\MyGit\WinForms\01_ Lab\02_Exercise\WinFormsApp1_1\WinFormsApp1_1\obj\Debug\net8.0-windows\WinFormsApp1_1.csproj.CoreCompileInputs.cache
+C:\MyGit\WinForms\01_ Lab\02_Exercise\WinFormsApp1_1\WinFormsApp1_1\obj\Debug\net8.0-windows\WinFormsApp1_1.dll
+C:\MyGit\WinForms\01_ Lab\02_Exercise\WinFormsApp1_1\WinFormsApp1_1\obj\Debug\net8.0-windows\refint\WinFormsApp1_1.dll
+C:\MyGit\WinForms\01_ Lab\02_Exercise\WinFormsApp1_1\WinFormsApp1_1\obj\Debug\net8.0-windows\WinFormsApp1_1.pdb
+C:\MyGit\WinForms\01_ Lab\02_Exercise\WinFormsApp1_1\WinFormsApp1_1\obj\Debug\net8.0-windows\WinFormsApp1_1.genruntimeconfig.cache
+C:\MyGit\WinForms\01_ Lab\02_Exercise\WinFormsApp1_1\WinFormsApp1_1\obj\Debug\net8.0-windows\ref\WinFormsApp1_1.dll

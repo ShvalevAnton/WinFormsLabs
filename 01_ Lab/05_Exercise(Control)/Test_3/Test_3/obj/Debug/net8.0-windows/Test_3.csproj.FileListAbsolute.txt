@@ -1,0 +1,16 @@
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_3\Test_3\bin\Debug\net8.0-windows\Test_3.exe
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_3\Test_3\bin\Debug\net8.0-windows\Test_3.deps.json
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_3\Test_3\bin\Debug\net8.0-windows\Test_3.runtimeconfig.json
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_3\Test_3\bin\Debug\net8.0-windows\Test_3.dll
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_3\Test_3\bin\Debug\net8.0-windows\Test_3.pdb
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_3\Test_3\obj\Debug\net8.0-windows\Test_3.Form1.resources
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_3\Test_3\obj\Debug\net8.0-windows\Test_3.csproj.GenerateResource.cache
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_3\Test_3\obj\Debug\net8.0-windows\Test_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_3\Test_3\obj\Debug\net8.0-windows\Test_3.AssemblyInfoInputs.cache
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_3\Test_3\obj\Debug\net8.0-windows\Test_3.AssemblyInfo.cs
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_3\Test_3\obj\Debug\net8.0-windows\Test_3.csproj.CoreCompileInputs.cache
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_3\Test_3\obj\Debug\net8.0-windows\Test_3.dll
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_3\Test_3\obj\Debug\net8.0-windows\refint\Test_3.dll
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_3\Test_3\obj\Debug\net8.0-windows\Test_3.pdb
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_3\Test_3\obj\Debug\net8.0-windows\Test_3.genruntimeconfig.cache
+C:\MyGit\WinForms\01_ Lab\05_Exercise(Control)\Test_3\Test_3\obj\Debug\net8.0-windows\ref\Test_3.dll
