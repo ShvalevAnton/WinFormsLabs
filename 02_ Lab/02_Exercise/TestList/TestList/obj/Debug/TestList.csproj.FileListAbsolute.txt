@@ -1,0 +1,10 @@
+C:\MyGit\WinFormsLabs\02_ Lab\02_Exercise\TestList\TestList\bin\Debug\TestList.exe.config
+C:\MyGit\WinFormsLabs\02_ Lab\02_Exercise\TestList\TestList\bin\Debug\TestList.exe
+C:\MyGit\WinFormsLabs\02_ Lab\02_Exercise\TestList\TestList\bin\Debug\TestList.pdb
+C:\MyGit\WinFormsLabs\02_ Lab\02_Exercise\TestList\TestList\obj\Debug\TestList.csproj.AssemblyReference.cache
+C:\MyGit\WinFormsLabs\02_ Lab\02_Exercise\TestList\TestList\obj\Debug\TestList.Form1.resources
+C:\MyGit\WinFormsLabs\02_ Lab\02_Exercise\TestList\TestList\obj\Debug\TestList.Properties.Resources.resources
+C:\MyGit\WinFormsLabs\02_ Lab\02_Exercise\TestList\TestList\obj\Debug\TestList.csproj.GenerateResource.cache
+C:\MyGit\WinFormsLabs\02_ Lab\02_Exercise\TestList\TestList\obj\Debug\TestList.csproj.CoreCompileInputs.cache
+C:\MyGit\WinFormsLabs\02_ Lab\02_Exercise\TestList\TestList\obj\Debug\TestList.exe
+C:\MyGit\WinFormsLabs\02_ Lab\02_Exercise\TestList\TestList\obj\Debug\TestList.pdb

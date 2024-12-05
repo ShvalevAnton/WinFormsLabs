@@ -1,0 +1,10 @@
+C:\MyGit\WinFormsLabs\02_ Lab\07_Exercise\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+C:\MyGit\WinFormsLabs\02_ Lab\07_Exercise\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe
+C:\MyGit\WinFormsLabs\02_ Lab\07_Exercise\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.pdb
+C:\MyGit\WinFormsLabs\02_ Lab\07_Exercise\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.AssemblyReference.cache
+C:\MyGit\WinFormsLabs\02_ Lab\07_Exercise\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Form1.resources
+C:\MyGit\WinFormsLabs\02_ Lab\07_Exercise\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Properties.Resources.resources
+C:\MyGit\WinFormsLabs\02_ Lab\07_Exercise\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.GenerateResource.cache
+C:\MyGit\WinFormsLabs\02_ Lab\07_Exercise\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.CoreCompileInputs.cache
+C:\MyGit\WinFormsLabs\02_ Lab\07_Exercise\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.exe
+C:\MyGit\WinFormsLabs\02_ Lab\07_Exercise\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.pdb

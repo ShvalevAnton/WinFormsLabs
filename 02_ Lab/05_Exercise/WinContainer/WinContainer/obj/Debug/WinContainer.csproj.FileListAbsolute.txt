@@ -1,0 +1,10 @@
+C:\MyGit\WinFormsLabs\02_ Lab\05_Exercise\WinContainer\WinContainer\bin\Debug\WinContainer.exe.config
+C:\MyGit\WinFormsLabs\02_ Lab\05_Exercise\WinContainer\WinContainer\bin\Debug\WinContainer.exe
+C:\MyGit\WinFormsLabs\02_ Lab\05_Exercise\WinContainer\WinContainer\bin\Debug\WinContainer.pdb
+C:\MyGit\WinFormsLabs\02_ Lab\05_Exercise\WinContainer\WinContainer\obj\Debug\WinContainer.csproj.AssemblyReference.cache
+C:\MyGit\WinFormsLabs\02_ Lab\05_Exercise\WinContainer\WinContainer\obj\Debug\WinContainer.Form1.resources
+C:\MyGit\WinFormsLabs\02_ Lab\05_Exercise\WinContainer\WinContainer\obj\Debug\WinContainer.Properties.Resources.resources
+C:\MyGit\WinFormsLabs\02_ Lab\05_Exercise\WinContainer\WinContainer\obj\Debug\WinContainer.csproj.GenerateResource.cache
+C:\MyGit\WinFormsLabs\02_ Lab\05_Exercise\WinContainer\WinContainer\obj\Debug\WinContainer.csproj.CoreCompileInputs.cache
+C:\MyGit\WinFormsLabs\02_ Lab\05_Exercise\WinContainer\WinContainer\obj\Debug\WinContainer.exe
+C:\MyGit\WinFormsLabs\02_ Lab\05_Exercise\WinContainer\WinContainer\obj\Debug\WinContainer.pdb

@@ -1,0 +1,10 @@
+C:\MyGit\WinFormsLabs\02_ Lab\01_Exercise\WinQuestion\WinQuestion\bin\Debug\WinQuestion.exe.config
+C:\MyGit\WinFormsLabs\02_ Lab\01_Exercise\WinQuestion\WinQuestion\bin\Debug\WinQuestion.exe
+C:\MyGit\WinFormsLabs\02_ Lab\01_Exercise\WinQuestion\WinQuestion\bin\Debug\WinQuestion.pdb
+C:\MyGit\WinFormsLabs\02_ Lab\01_Exercise\WinQuestion\WinQuestion\obj\Debug\WinQuestion.csproj.AssemblyReference.cache
+C:\MyGit\WinFormsLabs\02_ Lab\01_Exercise\WinQuestion\WinQuestion\obj\Debug\WinQuestion.Form1.resources
+C:\MyGit\WinFormsLabs\02_ Lab\01_Exercise\WinQuestion\WinQuestion\obj\Debug\WinQuestion.Properties.Resources.resources
+C:\MyGit\WinFormsLabs\02_ Lab\01_Exercise\WinQuestion\WinQuestion\obj\Debug\WinQuestion.csproj.GenerateResource.cache
+C:\MyGit\WinFormsLabs\02_ Lab\01_Exercise\WinQuestion\WinQuestion\obj\Debug\WinQuestion.csproj.CoreCompileInputs.cache
+C:\MyGit\WinFormsLabs\02_ Lab\01_Exercise\WinQuestion\WinQuestion\obj\Debug\WinQuestion.exe
+C:\MyGit\WinFormsLabs\02_ Lab\01_Exercise\WinQuestion\WinQuestion\obj\Debug\WinQuestion.pdb
