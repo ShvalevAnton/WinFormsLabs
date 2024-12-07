@@ -1,0 +1,17 @@
+C:\MyGit\WinFormsLabs\03_ Lab\01_Exercise\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\MyGit\WinFormsLabs\03_ Lab\01_Exercise\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\MyGit\WinFormsLabs\03_ Lab\01_Exercise\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.AssemblyReference.cache
+C:\MyGit\WinFormsLabs\03_ Lab\01_Exercise\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+C:\MyGit\WinFormsLabs\03_ Lab\01_Exercise\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache
+C:\MyGit\WinFormsLabs\03_ Lab\01_Exercise\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+C:\MyGit\WinFormsLabs\03_ Lab\01_Exercise\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\MyGit\WinFormsLabs\03_ Lab\01_Exercise\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+C:\MyGit\WinFormsLabs\03_ Lab\02_Exercise\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\MyGit\WinFormsLabs\03_ Lab\02_Exercise\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\MyGit\WinFormsLabs\03_ Lab\02_Exercise\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.AssemblyReference.cache
+C:\MyGit\WinFormsLabs\03_ Lab\02_Exercise\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+C:\MyGit\WinFormsLabs\03_ Lab\02_Exercise\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControlTimer2.resources
+C:\MyGit\WinFormsLabs\03_ Lab\02_Exercise\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache
+C:\MyGit\WinFormsLabs\03_ Lab\02_Exercise\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+C:\MyGit\WinFormsLabs\03_ Lab\02_Exercise\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\MyGit\WinFormsLabs\03_ Lab\02_Exercise\WindowsFormsControlLibrary1\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb

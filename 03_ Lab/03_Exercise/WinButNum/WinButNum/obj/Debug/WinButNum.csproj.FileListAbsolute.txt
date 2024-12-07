@@ -1,0 +1,10 @@
+C:\MyGit\WinFormsLabs\03_ Lab\03_Exercise\WinButNum\WinButNum\bin\Debug\WinButNum.exe.config
+C:\MyGit\WinFormsLabs\03_ Lab\03_Exercise\WinButNum\WinButNum\bin\Debug\WinButNum.exe
+C:\MyGit\WinFormsLabs\03_ Lab\03_Exercise\WinButNum\WinButNum\bin\Debug\WinButNum.pdb
+C:\MyGit\WinFormsLabs\03_ Lab\03_Exercise\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.AssemblyReference.cache
+C:\MyGit\WinFormsLabs\03_ Lab\03_Exercise\WinButNum\WinButNum\obj\Debug\WinButNum.Properties.Resources.resources
+C:\MyGit\WinFormsLabs\03_ Lab\03_Exercise\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.GenerateResource.cache
+C:\MyGit\WinFormsLabs\03_ Lab\03_Exercise\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.CoreCompileInputs.cache
+C:\MyGit\WinFormsLabs\03_ Lab\03_Exercise\WinButNum\WinButNum\obj\Debug\WinButNum.exe
+C:\MyGit\WinFormsLabs\03_ Lab\03_Exercise\WinButNum\WinButNum\obj\Debug\WinButNum.pdb
+C:\MyGit\WinFormsLabs\03_ Lab\03_Exercise\WinButNum\WinButNum\obj\Debug\WinButNum.Form1.resources

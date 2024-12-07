@@ -1,0 +1,13 @@
+C:\MyGit\WinFormsLabs\03_ Lab\04_Exercise\DataValidationForm\DataValidationForm\bin\Debug\DataValidationForm.exe.config
+C:\MyGit\WinFormsLabs\03_ Lab\04_Exercise\DataValidationForm\DataValidationForm\bin\Debug\DataValidationForm.exe
+C:\MyGit\WinFormsLabs\03_ Lab\04_Exercise\DataValidationForm\DataValidationForm\bin\Debug\DataValidationForm.pdb
+C:\MyGit\WinFormsLabs\03_ Lab\04_Exercise\DataValidationForm\DataValidationForm\obj\Debug\DataValidationForm.csproj.AssemblyReference.cache
+C:\MyGit\WinFormsLabs\03_ Lab\04_Exercise\DataValidationForm\DataValidationForm\obj\Debug\DataValidationForm.Form1.resources
+C:\MyGit\WinFormsLabs\03_ Lab\04_Exercise\DataValidationForm\DataValidationForm\obj\Debug\DataValidationForm.Properties.Resources.resources
+C:\MyGit\WinFormsLabs\03_ Lab\04_Exercise\DataValidationForm\DataValidationForm\obj\Debug\DataValidationForm.csproj.GenerateResource.cache
+C:\MyGit\WinFormsLabs\03_ Lab\04_Exercise\DataValidationForm\DataValidationForm\obj\Debug\DataValidationForm.csproj.CoreCompileInputs.cache
+C:\MyGit\WinFormsLabs\03_ Lab\04_Exercise\DataValidationForm\DataValidationForm\obj\Debug\DataValidationForm.exe
+C:\MyGit\WinFormsLabs\03_ Lab\04_Exercise\DataValidationForm\DataValidationForm\obj\Debug\DataValidationForm.pdb
+C:\MyGit\WinFormsLabs\03_ Lab\04_Exercise\DataValidationForm\DataValidationForm\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\MyGit\WinFormsLabs\03_ Lab\04_Exercise\DataValidationForm\DataValidationForm\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\MyGit\WinFormsLabs\03_ Lab\04_Exercise\DataValidationForm\DataValidationForm\obj\Debug\DataVali.9CE6245B.Up2Date
