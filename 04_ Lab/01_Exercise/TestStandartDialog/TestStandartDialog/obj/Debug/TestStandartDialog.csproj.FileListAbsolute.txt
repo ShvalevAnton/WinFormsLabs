@@ -1,0 +1,13 @@
+C:\MyGit\WinFormsLabs\04_ Lab\01_Exercise\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.exe.config
+C:\MyGit\WinFormsLabs\04_ Lab\01_Exercise\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.exe
+C:\MyGit\WinFormsLabs\04_ Lab\01_Exercise\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.pdb
+C:\MyGit\WinFormsLabs\04_ Lab\01_Exercise\TestStandartDialog\TestStandartDialog\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\MyGit\WinFormsLabs\04_ Lab\01_Exercise\TestStandartDialog\TestStandartDialog\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\MyGit\WinFormsLabs\04_ Lab\01_Exercise\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.AssemblyReference.cache
+C:\MyGit\WinFormsLabs\04_ Lab\01_Exercise\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.Form1.resources
+C:\MyGit\WinFormsLabs\04_ Lab\01_Exercise\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.Properties.Resources.resources
+C:\MyGit\WinFormsLabs\04_ Lab\01_Exercise\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.GenerateResource.cache
+C:\MyGit\WinFormsLabs\04_ Lab\01_Exercise\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.CoreCompileInputs.cache
+C:\MyGit\WinFormsLabs\04_ Lab\01_Exercise\TestStandartDialog\TestStandartDialog\obj\Debug\TestStan.735F9F85.Up2Date
+C:\MyGit\WinFormsLabs\04_ Lab\01_Exercise\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.exe
+C:\MyGit\WinFormsLabs\04_ Lab\01_Exercise\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.pdb

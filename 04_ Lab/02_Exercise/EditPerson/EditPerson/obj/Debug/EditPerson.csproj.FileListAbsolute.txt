@@ -1,0 +1,11 @@
+C:\MyGit\WinFormsLabs\04_ Lab\02_Exercise\EditPerson\EditPerson\obj\Debug\EditPerson.csproj.AssemblyReference.cache
+C:\MyGit\WinFormsLabs\04_ Lab\02_Exercise\EditPerson\EditPerson\obj\Debug\EditPerson.EditPersonForm.resources
+C:\MyGit\WinFormsLabs\04_ Lab\02_Exercise\EditPerson\EditPerson\obj\Debug\EditPerson.Form1.resources
+C:\MyGit\WinFormsLabs\04_ Lab\02_Exercise\EditPerson\EditPerson\obj\Debug\EditPerson.Properties.Resources.resources
+C:\MyGit\WinFormsLabs\04_ Lab\02_Exercise\EditPerson\EditPerson\obj\Debug\EditPerson.csproj.GenerateResource.cache
+C:\MyGit\WinFormsLabs\04_ Lab\02_Exercise\EditPerson\EditPerson\obj\Debug\EditPerson.csproj.CoreCompileInputs.cache
+C:\MyGit\WinFormsLabs\04_ Lab\02_Exercise\EditPerson\EditPerson\bin\Debug\EditPerson.exe.config
+C:\MyGit\WinFormsLabs\04_ Lab\02_Exercise\EditPerson\EditPerson\bin\Debug\EditPerson.exe
+C:\MyGit\WinFormsLabs\04_ Lab\02_Exercise\EditPerson\EditPerson\bin\Debug\EditPerson.pdb
+C:\MyGit\WinFormsLabs\04_ Lab\02_Exercise\EditPerson\EditPerson\obj\Debug\EditPerson.exe
+C:\MyGit\WinFormsLabs\04_ Lab\02_Exercise\EditPerson\EditPerson\obj\Debug\EditPerson.pdb

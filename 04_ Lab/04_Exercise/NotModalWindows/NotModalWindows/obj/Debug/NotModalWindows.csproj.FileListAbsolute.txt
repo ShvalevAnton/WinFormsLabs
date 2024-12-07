@@ -1,0 +1,11 @@
+C:\MyGit\WinFormsLabs\04_ Lab\04_Exercise\NotModalWindows\NotModalWindows\bin\Debug\NotModalWindows.exe.config
+C:\MyGit\WinFormsLabs\04_ Lab\04_Exercise\NotModalWindows\NotModalWindows\bin\Debug\NotModalWindows.exe
+C:\MyGit\WinFormsLabs\04_ Lab\04_Exercise\NotModalWindows\NotModalWindows\bin\Debug\NotModalWindows.pdb
+C:\MyGit\WinFormsLabs\04_ Lab\04_Exercise\NotModalWindows\NotModalWindows\obj\Debug\NotModalWindows.csproj.AssemblyReference.cache
+C:\MyGit\WinFormsLabs\04_ Lab\04_Exercise\NotModalWindows\NotModalWindows\obj\Debug\NotModalWindows.Form1.resources
+C:\MyGit\WinFormsLabs\04_ Lab\04_Exercise\NotModalWindows\NotModalWindows\obj\Debug\NotModalWindows.Form2.resources
+C:\MyGit\WinFormsLabs\04_ Lab\04_Exercise\NotModalWindows\NotModalWindows\obj\Debug\NotModalWindows.Properties.Resources.resources
+C:\MyGit\WinFormsLabs\04_ Lab\04_Exercise\NotModalWindows\NotModalWindows\obj\Debug\NotModalWindows.csproj.GenerateResource.cache
+C:\MyGit\WinFormsLabs\04_ Lab\04_Exercise\NotModalWindows\NotModalWindows\obj\Debug\NotModalWindows.csproj.CoreCompileInputs.cache
+C:\MyGit\WinFormsLabs\04_ Lab\04_Exercise\NotModalWindows\NotModalWindows\obj\Debug\NotModalWindows.exe
+C:\MyGit\WinFormsLabs\04_ Lab\04_Exercise\NotModalWindows\NotModalWindows\obj\Debug\NotModalWindows.pdb
