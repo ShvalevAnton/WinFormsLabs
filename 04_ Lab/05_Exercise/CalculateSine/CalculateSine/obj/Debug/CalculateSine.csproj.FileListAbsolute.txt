@@ -1,0 +1,11 @@
+C:\MyGit\WinFormsLabs\04_ Lab\05_Exercise\CalculateSine\CalculateSine\bin\Debug\CalculateSine.exe.config
+C:\MyGit\WinFormsLabs\04_ Lab\05_Exercise\CalculateSine\CalculateSine\bin\Debug\CalculateSine.exe
+C:\MyGit\WinFormsLabs\04_ Lab\05_Exercise\CalculateSine\CalculateSine\bin\Debug\CalculateSine.pdb
+C:\MyGit\WinFormsLabs\04_ Lab\05_Exercise\CalculateSine\CalculateSine\obj\Debug\CalculateSine.csproj.AssemblyReference.cache
+C:\MyGit\WinFormsLabs\04_ Lab\05_Exercise\CalculateSine\CalculateSine\obj\Debug\CalculateSine.Form1.resources
+C:\MyGit\WinFormsLabs\04_ Lab\05_Exercise\CalculateSine\CalculateSine\obj\Debug\CalculateSine.FormInterval.resources
+C:\MyGit\WinFormsLabs\04_ Lab\05_Exercise\CalculateSine\CalculateSine\obj\Debug\CalculateSine.Properties.Resources.resources
+C:\MyGit\WinFormsLabs\04_ Lab\05_Exercise\CalculateSine\CalculateSine\obj\Debug\CalculateSine.csproj.GenerateResource.cache
+C:\MyGit\WinFormsLabs\04_ Lab\05_Exercise\CalculateSine\CalculateSine\obj\Debug\CalculateSine.csproj.CoreCompileInputs.cache
+C:\MyGit\WinFormsLabs\04_ Lab\05_Exercise\CalculateSine\CalculateSine\obj\Debug\CalculateSine.exe
+C:\MyGit\WinFormsLabs\04_ Lab\05_Exercise\CalculateSine\CalculateSine\obj\Debug\CalculateSine.pdb
