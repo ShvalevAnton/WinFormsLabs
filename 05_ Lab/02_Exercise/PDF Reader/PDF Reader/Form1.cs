@@ -1,0 +1,44 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace PDF_Reader
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void openToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            openFileDialog1.Filter = "Файлы pdf|*.pdf";
+            //openFileDialog1.ShowDialog();
+            //axAcroPDF1.LoadFile(openFileDialog1.FileName);
+            try
+            {
+                openFileDialog1.Filter = "Файлы pdf|*.pdf";
+                if (openFileDialog1.ShowDialog() == DialogResult.OK)
+                {
+                    axAcroPDF1.LoadFile(openFileDialog1.FileName);
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Произошла ошибка при открытии файла: " + ex.Message, "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close(); // Закрытие текущей формы
+        }
+    }
+}

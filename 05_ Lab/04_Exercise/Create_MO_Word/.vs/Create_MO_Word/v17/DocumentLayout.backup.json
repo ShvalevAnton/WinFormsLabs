@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyGit\\WinFormsLabs\\05_ Lab\\04_Exercise\\Create_MO_Word\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42AB3A6C-159E-4399-B266-FCF3EA7DD939}|Create_MO_Word\\Create_MO_Word.csproj|c:\\mygit\\winformslabs\\05_ lab\\04_exercise\\create_mo_word\\create_mo_word\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AB3A6C-159E-4399-B266-FCF3EA7DD939}|Create_MO_Word\\Create_MO_Word.csproj|solutionrelative:create_mo_word\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AB3A6C-159E-4399-B266-FCF3EA7DD939}|Create_MO_Word\\Create_MO_Word.csproj|C:\\MyGit\\WinFormsLabs\\05_ Lab\\04_Exercise\\Create_MO_Word\\create_mo_word\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42AB3A6C-159E-4399-B266-FCF3EA7DD939}|Create_MO_Word\\Create_MO_Word.csproj|solutionrelative:create_mo_word\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 237,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\MyGit\\WinFormsLabs\\05_ Lab\\04_Exercise\\Create_MO_Word\\Create_MO_Word\\Form1.cs",
+              "RelativeDocumentMoniker": "Create_MO_Word\\Form1.cs",
+              "ToolTip": "C:\\MyGit\\WinFormsLabs\\05_ Lab\\04_Exercise\\Create_MO_Word\\Create_MO_Word\\Form1.cs",
+              "RelativeToolTip": "Create_MO_Word\\Form1.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwFoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:46:35.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\MyGit\\WinFormsLabs\\05_ Lab\\04_Exercise\\Create_MO_Word\\Create_MO_Word\\Form1.cs",
+              "RelativeDocumentMoniker": "Create_MO_Word\\Form1.cs",
+              "ToolTip": "C:\\MyGit\\WinFormsLabs\\05_ Lab\\04_Exercise\\Create_MO_Word\\Create_MO_Word\\Form1.cs [Design]",
+              "RelativeToolTip": "Create_MO_Word\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:44:46.924Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

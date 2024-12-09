@@ -1,0 +1,15 @@
+C:\MyGit\WinFormsLabs\05_ Lab\02_Exercise\PDF Reader\PDF Reader\bin\Debug\PDF Reader.exe.config
+C:\MyGit\WinFormsLabs\05_ Lab\02_Exercise\PDF Reader\PDF Reader\bin\Debug\PDF Reader.exe
+C:\MyGit\WinFormsLabs\05_ Lab\02_Exercise\PDF Reader\PDF Reader\bin\Debug\PDF Reader.pdb
+C:\MyGit\WinFormsLabs\05_ Lab\02_Exercise\PDF Reader\PDF Reader\bin\Debug\Interop.AcroPDFLib.dll
+C:\MyGit\WinFormsLabs\05_ Lab\02_Exercise\PDF Reader\PDF Reader\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\MyGit\WinFormsLabs\05_ Lab\02_Exercise\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.AssemblyReference.cache
+C:\MyGit\WinFormsLabs\05_ Lab\02_Exercise\PDF Reader\PDF Reader\obj\Debug\Interop.AcroPDFLib.dll
+C:\MyGit\WinFormsLabs\05_ Lab\02_Exercise\PDF Reader\PDF Reader\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\MyGit\WinFormsLabs\05_ Lab\02_Exercise\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.ResolveComReference.cache
+C:\MyGit\WinFormsLabs\05_ Lab\02_Exercise\PDF Reader\PDF Reader\obj\Debug\PDF_Reader.Form1.resources
+C:\MyGit\WinFormsLabs\05_ Lab\02_Exercise\PDF Reader\PDF Reader\obj\Debug\PDF_Reader.Properties.Resources.resources
+C:\MyGit\WinFormsLabs\05_ Lab\02_Exercise\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.GenerateResource.cache
+C:\MyGit\WinFormsLabs\05_ Lab\02_Exercise\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.CoreCompileInputs.cache
+C:\MyGit\WinFormsLabs\05_ Lab\02_Exercise\PDF Reader\PDF Reader\obj\Debug\PDF Reader.exe
+C:\MyGit\WinFormsLabs\05_ Lab\02_Exercise\PDF Reader\PDF Reader\obj\Debug\PDF Reader.pdb

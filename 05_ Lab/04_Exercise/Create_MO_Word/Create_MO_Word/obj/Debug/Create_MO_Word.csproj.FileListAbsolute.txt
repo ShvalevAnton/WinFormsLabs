@@ -1,0 +1,11 @@
+C:\MyGit\WinFormsLabs\05_ Lab\04_Exercise\Create_MO_Word\Create_MO_Word\bin\Debug\Create_MO_Word.exe.config
+C:\MyGit\WinFormsLabs\05_ Lab\04_Exercise\Create_MO_Word\Create_MO_Word\bin\Debug\Create_MO_Word.exe
+C:\MyGit\WinFormsLabs\05_ Lab\04_Exercise\Create_MO_Word\Create_MO_Word\bin\Debug\Create_MO_Word.pdb
+C:\MyGit\WinFormsLabs\05_ Lab\04_Exercise\Create_MO_Word\Create_MO_Word\obj\Debug\Create_MO_Word.csproj.AssemblyReference.cache
+C:\MyGit\WinFormsLabs\05_ Lab\04_Exercise\Create_MO_Word\Create_MO_Word\obj\Debug\Create_MO_Word.csproj.ResolveComReference.cache
+C:\MyGit\WinFormsLabs\05_ Lab\04_Exercise\Create_MO_Word\Create_MO_Word\obj\Debug\Create_MO_Word.Form1.resources
+C:\MyGit\WinFormsLabs\05_ Lab\04_Exercise\Create_MO_Word\Create_MO_Word\obj\Debug\Create_MO_Word.Properties.Resources.resources
+C:\MyGit\WinFormsLabs\05_ Lab\04_Exercise\Create_MO_Word\Create_MO_Word\obj\Debug\Create_MO_Word.csproj.GenerateResource.cache
+C:\MyGit\WinFormsLabs\05_ Lab\04_Exercise\Create_MO_Word\Create_MO_Word\obj\Debug\Create_MO_Word.csproj.CoreCompileInputs.cache
+C:\MyGit\WinFormsLabs\05_ Lab\04_Exercise\Create_MO_Word\Create_MO_Word\obj\Debug\Create_MO_Word.exe
+C:\MyGit\WinFormsLabs\05_ Lab\04_Exercise\Create_MO_Word\Create_MO_Word\obj\Debug\Create_MO_Word.pdb

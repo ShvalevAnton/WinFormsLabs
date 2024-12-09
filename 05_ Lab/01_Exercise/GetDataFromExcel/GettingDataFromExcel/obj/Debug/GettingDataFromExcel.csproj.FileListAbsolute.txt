@@ -1,0 +1,11 @@
+C:\MyGit\WinFormsLabs\05_ Lab\01_Exercise\GetDataFromExcel\GettingDataFromExcel\bin\Debug\GettingDataFromExcel.exe.config
+C:\MyGit\WinFormsLabs\05_ Lab\01_Exercise\GetDataFromExcel\GettingDataFromExcel\bin\Debug\GettingDataFromExcel.exe
+C:\MyGit\WinFormsLabs\05_ Lab\01_Exercise\GetDataFromExcel\GettingDataFromExcel\bin\Debug\GettingDataFromExcel.pdb
+C:\MyGit\WinFormsLabs\05_ Lab\01_Exercise\GetDataFromExcel\GettingDataFromExcel\obj\Debug\GettingDataFromExcel.csproj.AssemblyReference.cache
+C:\MyGit\WinFormsLabs\05_ Lab\01_Exercise\GetDataFromExcel\GettingDataFromExcel\obj\Debug\GettingDataFromExcel.Form1.resources
+C:\MyGit\WinFormsLabs\05_ Lab\01_Exercise\GetDataFromExcel\GettingDataFromExcel\obj\Debug\GettingDataFromExcel.Properties.Resources.resources
+C:\MyGit\WinFormsLabs\05_ Lab\01_Exercise\GetDataFromExcel\GettingDataFromExcel\obj\Debug\GettingDataFromExcel.csproj.GenerateResource.cache
+C:\MyGit\WinFormsLabs\05_ Lab\01_Exercise\GetDataFromExcel\GettingDataFromExcel\obj\Debug\GettingDataFromExcel.csproj.CoreCompileInputs.cache
+C:\MyGit\WinFormsLabs\05_ Lab\01_Exercise\GetDataFromExcel\GettingDataFromExcel\obj\Debug\GettingDataFromExcel.exe
+C:\MyGit\WinFormsLabs\05_ Lab\01_Exercise\GetDataFromExcel\GettingDataFromExcel\obj\Debug\GettingDataFromExcel.pdb
+C:\MyGit\WinFormsLabs\05_ Lab\01_Exercise\GetDataFromExcel\GettingDataFromExcel\obj\Debug\GettingDataFromExcel.csproj.ResolveComReference.cache
