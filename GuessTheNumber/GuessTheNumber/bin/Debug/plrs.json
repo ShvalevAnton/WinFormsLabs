@@ -1,0 +1,44 @@
+[
+  {
+    "_bestRes": 2500,
+    "Name": "Антон",
+    "Password": "1",
+    "Score": 1000,
+    "BestRes": 2500
+  },
+  {
+    "_bestRes": 800,
+    "Name": "Марина",
+    "Password": "1",
+    "Score": -300,
+    "BestRes": 800
+  },
+  {
+    "_bestRes": 800,
+    "Name": "Роман",
+    "Password": "1",
+    "Score": 800,
+    "BestRes": 800
+  },
+  {
+    "_bestRes": 700,
+    "Name": "Андрей",
+    "Password": "1",
+    "Score": 700,
+    "BestRes": 700
+  },
+  {
+    "_bestRes": 400,
+    "Name": "Алекс",
+    "Password": "1",
+    "Score": 400,
+    "BestRes": 400
+  },
+  {
+    "_bestRes": 0,
+    "Name": "Алиса",
+    "Password": "1",
+    "Score": 0,
+    "BestRes": 0
+  }
+]

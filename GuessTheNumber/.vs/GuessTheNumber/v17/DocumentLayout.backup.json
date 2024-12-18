@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{647AB28B-32AC-4CB9-950F-599F0A7DFF45}|GuessTheNumber\\GuessTheNumber.csproj|C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\guessthenumber\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647AB28B-32AC-4CB9-950F-599F0A7DFF45}|GuessTheNumber\\GuessTheNumber.csproj|solutionrelative:guessthenumber\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647AB28B-32AC-4CB9-950F-599F0A7DFF45}|GuessTheNumber\\GuessTheNumber.csproj|C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\guessthenumber\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647AB28B-32AC-4CB9-950F-599F0A7DFF45}|GuessTheNumber\\GuessTheNumber.csproj|solutionrelative:guessthenumber\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647AB28B-32AC-4CB9-950F-599F0A7DFF45}|GuessTheNumber\\GuessTheNumber.csproj|C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\guessthenumber\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647AB28B-32AC-4CB9-950F-599F0A7DFF45}|GuessTheNumber\\GuessTheNumber.csproj|solutionrelative:guessthenumber\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647AB28B-32AC-4CB9-950F-599F0A7DFF45}|GuessTheNumber\\GuessTheNumber.csproj|C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\guessthenumber\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{647AB28B-32AC-4CB9-950F-599F0A7DFF45}|GuessTheNumber\\GuessTheNumber.csproj|solutionrelative:guessthenumber\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\GuessTheNumber\\bin\\Debug\\plrs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GuessTheNumber\\bin\\Debug\\plrs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647AB28B-32AC-4CB9-950F-599F0A7DFF45}|GuessTheNumber\\GuessTheNumber.csproj|C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\guessthenumber\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{647AB28B-32AC-4CB9-950F-599F0A7DFF45}|GuessTheNumber\\GuessTheNumber.csproj|solutionrelative:guessthenumber\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647AB28B-32AC-4CB9-950F-599F0A7DFF45}|GuessTheNumber\\GuessTheNumber.csproj|C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\guessthenumber\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{647AB28B-32AC-4CB9-950F-599F0A7DFF45}|GuessTheNumber\\GuessTheNumber.csproj|solutionrelative:guessthenumber\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647AB28B-32AC-4CB9-950F-599F0A7DFF45}|GuessTheNumber\\GuessTheNumber.csproj|c:\\users\\user\\documents\\04_mygit\\winformslabs\\guessthenumber\\guessthenumber\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647AB28B-32AC-4CB9-950F-599F0A7DFF45}|GuessTheNumber\\GuessTheNumber.csproj|solutionrelative:guessthenumber\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647AB28B-32AC-4CB9-950F-599F0A7DFF45}|GuessTheNumber\\GuessTheNumber.csproj|C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\guessthenumber\\registration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647AB28B-32AC-4CB9-950F-599F0A7DFF45}|GuessTheNumber\\GuessTheNumber.csproj|solutionrelative:guessthenumber\\registration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 237,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\GuessTheNumber\\Form1.cs",
+              "RelativeDocumentMoniker": "GuessTheNumber\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\GuessTheNumber\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "GuessTheNumber\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:33:31.245Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\GuessTheNumber\\Form1.cs",
+              "RelativeDocumentMoniker": "GuessTheNumber\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\GuessTheNumber\\Form1.cs",
+              "RelativeToolTip": "GuessTheNumber\\Form1.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAYwHEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:43:46.445Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\GuessTheNumber\\Form2.cs",
+              "RelativeDocumentMoniker": "GuessTheNumber\\Form2.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\GuessTheNumber\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "GuessTheNumber\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:06:15.956Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\GuessTheNumber\\Form2.cs",
+              "RelativeDocumentMoniker": "GuessTheNumber\\Form2.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\GuessTheNumber\\Form2.cs",
+              "RelativeToolTip": "GuessTheNumber\\Form2.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAwBwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:15:29.479Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registration.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\GuessTheNumber\\Registration.cs",
+              "RelativeDocumentMoniker": "GuessTheNumber\\Registration.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\GuessTheNumber\\Registration.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "GuessTheNumber\\Registration.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:19:24.884Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\GuessTheNumber\\Registration.cs",
+              "RelativeDocumentMoniker": "GuessTheNumber\\Registration.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\GuessTheNumber\\Registration.cs",
+              "RelativeToolTip": "GuessTheNumber\\Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:27:26.971Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "plrs.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\GuessTheNumber\\bin\\Debug\\plrs.json",
+              "RelativeDocumentMoniker": "GuessTheNumber\\bin\\Debug\\plrs.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\GuessTheNumber\\bin\\Debug\\plrs.json",
+              "RelativeToolTip": "GuessTheNumber\\bin\\Debug\\plrs.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T16:12:15.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\GuessTheNumber\\Player.cs",
+              "RelativeDocumentMoniker": "GuessTheNumber\\Player.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\GuessTheNumber\\Player.cs",
+              "RelativeToolTip": "GuessTheNumber\\Player.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwDcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T18:24:02.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Registration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\GuessTheNumber\\Registration.Designer.cs",
+              "RelativeDocumentMoniker": "GuessTheNumber\\Registration.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\04_MyGit\\WinFormsLabs\\GuessTheNumber\\GuessTheNumber\\Registration.Designer.cs",
+              "RelativeToolTip": "GuessTheNumber\\Registration.Designer.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAASwKAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:57:09.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
